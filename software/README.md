@@ -22,4 +22,8 @@ Edit the different variables for SDR operation, such as the band used, MCC, MNC,
 Get involved! Adding any of the features in progress is welcomed. Or, branch off. Development into 3G systems, such as the OpenBTS-UMTS package usage with software-defined radios is an exciting prospect that is yet to be explored, for example.
 
 #### Download Ubuntu
+This one has been moved to archive
 * [ISO](http://releases.ubuntu.com/14.04/ubuntu-14.04.5-server-amd64.iso)
+
+Here is the new location
+* [ISO](http://old-releases.ubuntu.com/releases/14.04.5/)
